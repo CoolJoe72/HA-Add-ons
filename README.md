@@ -5,7 +5,7 @@ In theroy this will link to seperate Home Assistant Add-on Repositories using gi
 
 ## Add-ons
 This repository contains the following add-ons
-- [x] [Rattler 433](https://github.com/CoolJoe72/rattler433) v1.7.4
+- ~[Rattler 433](https://github.com/CoolJoe72/rattler433) v1.7.4~
 - [ ] [HostAP]()
 
 ![Supports aarch64 Architecture][aarch64-shield]
